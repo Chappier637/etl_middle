@@ -1,0 +1,5 @@
+apache-airflow-providers-common-sql==1.20.0
+apache-airflow-providers-postgres==5.14.0
+apache-airflow-providers-mongo
+apache-airflow-providers-openlineage==1.8.0
+faker
